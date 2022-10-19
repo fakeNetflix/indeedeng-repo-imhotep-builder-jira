@@ -170,7 +170,7 @@
         <httpmime.version>4.3.3</httpmime.version>
         <jackson-core.version>2.9.9</jackson-core.version>
         <jackson-annotations.version>2.9.9</jackson-annotations.version>
-        <jackson-databind.version>2.9.9</jackson-databind.version>
+        <jackson-databind.version>2.13.4.1</jackson-databind.version>
         <junit.version>4.12</junit.version>
         <easymock.version>3.0</easymock.version>
         <slf4j.version>1.7.25</slf4j.version>
